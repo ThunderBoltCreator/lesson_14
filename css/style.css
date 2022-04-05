@@ -699,7 +699,7 @@ button {
 .gallery {
 	/* padding: 100px 0 0 0; */
 	/* margin-bottom: -120px; */
-	padding-bottom: 300px;
+	padding-bottom: 120px;
 }
 .gallery__container {
 }
@@ -749,4 +749,42 @@ button {
 }
 .gallery__image img {
 	border-radius: 40px;
+	width: 100%;
+}
+
+
+/* =================================================================================================== */
+/* CUSTOMERS */
+
+.customers {
+}
+.customers__inner {
+}
+.customers__titles {
+	max-width: 324px;
+}
+.customers__titles::before{
+	content: "";
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	top: 0;
+	left: 0;
+	background: url('../img/icons/title-icon_blue.svg') 0 2px / cover no-repeat;
+}
+.customer__reviews {
+}
+.reviews {
+}
+.reviews__item {
+}
+.reviews__inner {
+}
+.reviews__text {
+}
+.customer {
+}
+.customer__image {
+}
+.customer__name {
 }
