@@ -949,8 +949,6 @@ margin-right: 111px;
 .break__button {
 	flex: 0 1 210px;
 }
-.button {
-}
 
 
 /* =================================================================================================== */
@@ -967,8 +965,6 @@ margin-right: 111px;
 }
 .footer__logo {
 	margin-right: 185px;
-}
-.footer__item-logo {
 }
 .footer__title {
 	font-size: 14px;
@@ -1011,9 +1007,6 @@ margin-right: 111px;
 }
 .links__item img {
 	width: 100%;
-}
-.footer__items {
-	
 }
 /* .footer__body .footer__items :not(:last-child) {
 	margin-right: 121px;
